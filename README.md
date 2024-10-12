@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MikkoNurminenn
+- 👀 I’m interested in data science, machine learning, and solving real-world problems with data magic.
+- 🌱 I’m currently learning advanced machine learning techniques and building projects that combine predictive modeling with cool visualizations.
+- 💞️ I’m looking to collaborate on data science projects, especially in areas like healthcare, finance, or anywhere data can make a big impact.
+- 📫 How to reach me: Shoot me an email at mikxe15@icloud.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I’m not coding, there’s a 99% chance I’m either lifting weights at the gym or lost in a good book!
